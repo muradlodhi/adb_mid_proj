@@ -1,6 +1,6 @@
-**Name      :  Murad Lodhi**
-**Reg#     :  FA23-BCS-170**
-**Section   :  C**
+**Name      :  Murad Lodhi** 
+**Reg#     :  FA23-BCS-170** 
+**Section   :  C** 
 
 # **Advanced Databsase**
 **Midterm Project Group: E**
