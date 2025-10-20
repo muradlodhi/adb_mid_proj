@@ -1,9 +1,9 @@
-**Name      :  Murad Lodhi**
-**Reg/#     :  FA23-BCS-170**
-**Section   :  C**
-
-#**Advanced Databsase**
-**Midterm Project Group: E**
+**Name      :  Murad Lodhi**\n
+**Reg#     :  FA23-BCS-170**\n
+**Section   :  C**\n
+\n
+#**Advanced Databsase**\n
+**Midterm Project Group: E**\n
 
 # ✈️ FastAPI Flight Tracking API
 
