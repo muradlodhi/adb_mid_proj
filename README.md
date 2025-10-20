@@ -144,23 +144,8 @@ When `"destinationReached": true`, the flight is logged to history automatically
 ## 🧑‍💻 Author
 
 **Your Name**  
-📧 your.email@example.com  
-🌐 [github.com/your-username](https://github.com/your-username)
+📧 muradlodhi2003@gmail.com  
+🌐 [github.com/muradlodhi](https://github.com/muradlodhi)
 
----
-
-## 🪪 License
-
-This project is licensed under the **MIT License**.  
-You are free to use, modify, and distribute it for both personal and commercial use.
-
----
-
-## ⭐ Contribute
-
-If you find this project useful:
-1. Star 🌟 the repository  
-2. Fork 🍴 and make improvements  
-3. Submit a Pull Request 🤝  
 
 > “Simple, fast, and efficient flight tracking – powered by FastAPI.”
