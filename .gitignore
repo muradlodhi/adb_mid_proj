@@ -1,0 +1,81 @@
+# ==============================================
+# 🌍 FASTAPI FLIGHT TRACKING API - .gitignore
+# ==============================================
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*$py.class
+
+# --- Virtual Environments ---
+venv/
+env/
+.venv/
+ENV/
+
+# --- Environment Variables ---
+.env
+.env.*
+!.env.example
+
+# --- IDE / Editor ---
+.vscode/
+.idea/
+*.swp
+*.swo
+*.bak
+
+# --- OS Files ---
+.DS_Store
+Thumbs.db
+
+# --- Logs and Data ---
+*.log
+*.out
+*.tmp
+*.sqlite3
+*.db
+
+# --- Build / Dist / Cache ---
+build/
+dist/
+.eggs/
+*.egg-info/
+pip-wheel-metadata/
+.cache/
+__pypackages__/
+
+# --- Coverage / Testing ---
+.coverage
+htmlcov/
+.tox/
+.nox/
+.pytest_cache/
+pytestdebug.log
+
+# --- Jupyter ---
+.ipynb_checkpoints/
+
+# --- Reports ---
+*.pdf
+*.docx
+*.csv
+*.xlsx
+
+# --- MongoDB dump files ---
+dump/
+*.bson
+*.json
+
+# --- Misc ---
+*.zip
+*.tar.gz
+*.tgz
+*.tar
+
+# --- Uvicorn or FastAPI runtime ---
+*.pid
+*.sock

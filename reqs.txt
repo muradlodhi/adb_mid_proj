@@ -1,0 +1,8 @@
+cat << 'EOF' > requirements.txt
+# requirements.txt
+fastapi
+uvicorn
+pymongo
+pydantic>=2.0.0
+python-multipart
+EOF
