@@ -1,3 +1,10 @@
+**Name      :  Murad Lodhi**
+**Reg/#     :  FA23-BCS-170**
+**Section   :  C**
+
+#**Advanced Databsase**
+**Midterm Project Group: E**
+
 # ✈️ FastAPI Flight Tracking API
 
 ![Python Version](https://img.shields.io/badge/Python-3.8+-blue.svg)
