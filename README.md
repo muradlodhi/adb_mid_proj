@@ -2,8 +2,8 @@
 **Reg#     :  FA23-BCS-170**
 **Section   :  C**
 
-# **Advanced Databsase**\n
-**Midterm Project Group: E**\n
+# **Advanced Databsase**
+**Midterm Project Group: E**
 
 # ✈️ FastAPI Flight Tracking API
 
